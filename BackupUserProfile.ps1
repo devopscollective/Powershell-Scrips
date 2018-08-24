@@ -93,3 +93,9 @@ else
 	write-host -ForegroundColor green "Backup complete!"
 	
 } 
+
+
+
+#another option https://community.spiceworks.com/scripts/show/2640-user-profile-backup-restore-for-machine-swaps 
+
+
