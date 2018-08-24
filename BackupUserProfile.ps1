@@ -99,3 +99,5 @@ else
 #another option https://community.spiceworks.com/scripts/show/2640-user-profile-backup-restore-for-machine-swaps 
 
 #  SFC /SCANNOW
+
+#create custom image https://searchenterprisedesktop.techtarget.com/feature/How-to-create-a-custom-Windows-10-image-for-deployment 
